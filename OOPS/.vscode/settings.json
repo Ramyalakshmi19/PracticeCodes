@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iostream": "cpp",
+        "stdio.h": "c",
+        "string.h": "c",
+        "postfixadt.h": "c",
+        "ostream": "cpp",
+        "ADT.H": "cpp",
+        "iosfwd": "cpp"
+    }
+}
